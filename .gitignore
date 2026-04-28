@@ -1,0 +1,90 @@
+# ECG raw data
+*.hea
+*.dat
+
+# Numpy arrays
+*.npy
+
+# Model files
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+# Result folders
+results_basic_1dcnn/
+results_class_weight_1dcnn/
+
+# CSV files that may contain local paths
+manifest.csv
+record_ids_*.csv
+failed_*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+medai/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Dataset metadata / labels
+exams.csv
+
+# Report files
+*.hwp
+*.docx
+*.pdf
+
+# Generated figures
+*.png
+*.jpg
+*.jpeg
+
+# ECG raw data
+*.hea
+*.dat
+
+# Numpy arrays
+*.npy
+
+# Model files
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+# Result folders
+results_basic_1dcnn/
+results_class_weight_1dcnn/
+
+# CSV files that may contain local paths
+manifest.csv
+record_ids_*.csv
+failed_*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+medai/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
